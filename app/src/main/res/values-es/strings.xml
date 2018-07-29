@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="button_text">Lanza el dado</string>
+    <string name="description_button">Presiona el botón para lanzar el dado</string>
+</resources>
